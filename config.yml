@@ -1,0 +1,35 @@
+#Config Plugin TradeVillager
+#Credits: NycuRO
+
+#RO: Banii care ii primesti de la Villager pentru schimb
+#EN: Money you get from Trade with Villager
+baniDeMuls: 500
+
+#RO: Sansa pentru a primi lapte de la Vaca
+#EN: Change you get Milk from Cow
+sansaSaPrimestiLapte: 35
+
+#RO: Mesaje
+#EN: Messages
+mesajMuls: "You get Milk, yay!!"
+mesajNereusitaMuls: "Cow aren't good with you and don't give you Milk!"
+mesajSatean: "Hello, what's up?"
+mesajPrimestiBaniSatean: "Watch this money, are yours now :D"
+mesajNuAreGaleata: "Hmm... Where it's Milk?"
+mesajAnulareSchimbCuSatean: "You don't like money? Ok.."
+numeVillagerMenu: "Villager Trade"
+mesajVillagerMenu: "Hello, What's up m'a friend?"
+optiuneVillagerMenu: "Milk"
+titlePrimestiBaniSatean: "I give you this money"
+titleNuAreGaleata: "Where is milk?"
+titleAnulareSchimbCuSatean: "Cancel Trade"
+titleMuls: "Title Get Milk"
+titleNereusitaMuls: "Title fail Milk"
+buttonMessageOne: "Yes, i want!"
+buttonMessageTwo: "No, thanks!"
+
+#RO: Iteme
+#EN: Items
+itemCedatVaca: 325 # Id Empty Bucket
+itemPrimitVaca: 325 # Id Bucked Milk
+metadataPrimitVaca: 1 # Metadata Bucked Milk

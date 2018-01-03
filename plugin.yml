@@ -1,0 +1,6 @@
+name: TradeVillager
+author: NycuRO
+version: "1.0.0-RELEASE"
+api:
+- 3.0.0-ALPHA10
+main: NycuRO\TradeVillager
