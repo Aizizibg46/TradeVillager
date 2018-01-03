@@ -9,6 +9,11 @@ PR'S was welcomed!
 This plugin was created for Trade with Villager one Bucket Milk. Good for Roleplay!
 This plugin was TOTTALY FREE, not for sale.
 
+## Dependency
+
+This plugin have one dependency: EconomyAPI.
+Please to be sure you have installed EconomyAPI!
+
 ## YouTube
 
 YouTube video coming soon!
