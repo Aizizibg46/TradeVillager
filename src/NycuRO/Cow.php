@@ -9,7 +9,7 @@ use pocketmine\item\Item;
 
 /**
  * author: NycuRO
- * LapteVaca Project
+ * TradeVillager Project
  */
 class Cow extends Animal {
 
