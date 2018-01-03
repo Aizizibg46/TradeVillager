@@ -212,9 +212,6 @@ class TradeVillager extends PluginBase implements Listener {
         if ($pk instanceof ModalFormResponsePacket) {
             $formId = $pk->formId;
             $formData = trim($pk->formData);
-            echo
-                "Player " . $player->getName() . " selected an object in the window with id " . $formId . PHP_EOL .
-                "formData: " . "\"" . $formData . "\"" . PHP_EOL;
             switch ($formId) {
                 case 0:
                     switch ($formData) {
