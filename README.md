@@ -11,4 +11,4 @@ This plugin was TOTTALY FREE, not for sale.
 
 ## YouTube
 
-YouTube video comming soon!
+YouTube video coming soon!
