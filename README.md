@@ -6,7 +6,7 @@ PR'S was welcomed!
 
 ## Informations
 
-This plugin was created for Trade with Villager one Bucket Milk. Good for Roleplay!
+This plugin was created for Trade with Villager one Bucket Milk for money. Good for Roleplay!
 This plugin was TOTTALY FREE, not for sale.
 
 ## Dependency
