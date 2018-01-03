@@ -1,19 +1,21 @@
 ## TradeVillager
 
-This plugin was created specially for one person, but them don't want them, so i post free for all.
-Any bug/error can be reported. 
-PR'S was welcomed!
+😊 This plugin was created specially for one person, but them don't want them, so i post free for all.
+😊 Any bug/error can be reported. 
+😊 PR'S was welcomed!
 
 ## Informations
 
-This plugin was created for Trade with Villager one Bucket Milk for money. Good for Roleplay!
-This plugin was TOTTALY FREE, not for sale.
+🧦 This plugin was created by me. 
+🧦 This plugin was FREE.
+🧦This plugin was FULL CUSTOMIZABLE! You can modify ANY MESSAGE
 
 ## Dependency
 
-This plugin have one dependency: EconomyAPI.
-Please to be sure you have installed EconomyAPI!
+🎉 This plugin have one dependency: EconomyAPI.
+🎉 Please to be sure you have installed EconomyAPI!
 
 ## YouTube
 
-YouTube video coming soon!
+🎉 I'm creating one Video for watch what this plugins do.
+🎉 YouTube Video: https://www.youtube.com/watch?v=D81Dn_oSF5M
