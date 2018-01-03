@@ -4,11 +4,13 @@
 😊 Any bug/error can be reported. 
 😊 PR'S was welcomed!
 
-## Informations
+🌟 Features & Informations: 🌟
 
 🧦 This plugin was created by me. 
 🧦 This plugin was FREE.
-🧦This plugin was FULL CUSTOMIZABLE! You can modify ANY MESSAGE
+🧦 This plugin was FULL CUSTOMIZABLE! You can modify ANY MESSAGE.
+🧦 This plugin have change for get milk.
+🧦 You can modify change for get milk on config.yml.
 
 ## Dependency
 
