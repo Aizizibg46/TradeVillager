@@ -5,8 +5,11 @@ declare(strict_types = 1);
 namespace NycuRO;
 
 use onebone\economyapi\EconomyAPI;
-use pocketmine\entity\{Entity, Villager};
-use pocketmine\event\entity\{EntityDamageByChildEntityEvent, EntityDamageByEntityEvent, EntityDamageEvent
+use pocketmine\entity\{
+    Entity, Villager
+};
+use pocketmine\event\entity\{
+    EntityDamageByChildEntityEvent, EntityDamageByEntityEvent, EntityDamageEvent
 };
 use pocketmine\event\Listener;
 use pocketmine\event\server\DataPacketReceiveEvent;
