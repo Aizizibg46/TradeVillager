@@ -1,6 +1,6 @@
                                                        ## TradeVillager
 
-              😊 This plugin was created specially for one person, but them don't want them, so i post free for all.
+              😊 This plugin was created specially for one person, but final decision, he don't want, so i post free for all.
 
                                                😊 Any bug/error can be reported. 
 
