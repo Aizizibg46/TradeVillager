@@ -30,8 +30,20 @@
 
                                         🎉 Please to be sure you have installed EconomyAPI!
 
+
+
+
                                                            ## YouTube
 
                                     🎉 I'm creating one Video for watch what this plugins do.
 
                                    🎉 YouTube Video: https://www.youtube.com/watch?v=D81Dn_oSF5M
+
+
+
+
+                                                           ## Discord
+                                                           
+                    🎉 I'm creating one Group Discord for Helping, Questions, Developing, Answers and Plugin Request!
+
+                                      🎉 Discord Group: https://discordapp.com/invite/7y8WM4F
