@@ -1,7 +1,7 @@
                                                        ## TradeVillager
 
               😊 This plugin was created specially for one person, but final decision, he don't want, so i post free for all.
-
+                                      😊 If you want ADDONS to this plugin, create one issue!
                                                😊 Any bug/error can be reported. 
 
                                                       😊 PR'S was welcomed!
